@@ -1,0 +1,18 @@
+#container1,#container2{
+	width:100%;
+}
+.example{
+	width:100%;
+	float:left;
+}
+
+ul#controls, ul#controls2{
+
+}
+ul#controls li, #controls2 li{
+	float:left;
+	margin:0 5px 0 0;
+}
+#example1{
+	overflow:hidden;
+}
